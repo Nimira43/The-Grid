@@ -1,10 +1,12 @@
+import { Posts } from './Posts'
+
 function App() {
   
   return (
-    <>
+    <div className='App'>
       <h1>Blog Query</h1>
-      <p>by NimiraTech</p>
-    </>
+      <Posts />
+    </div>
   )
 }
 
