@@ -1,11 +1,12 @@
-import { fetchComments } from './api'
+// import { fetchComments } from './api'
 
-export function PostDetail({ post }) {
-  const data = []
+// export function PostDetail({ post }) {
+export function PostDetail() {
+  // const data = []
 
   return (
     <>
-      <h3>{post.title}</h3>
+      {/* <h3>{post.title}</h3>
       <button>Delete</button> <button>Update Title</button>
       <p>{post.body}</p>
       <h4>Comments</h4>
@@ -13,7 +14,8 @@ export function PostDetail({ post }) {
         <li key={comment.id}>
           {comment.email}: {comment.body}
         </li>
-      ))}
+      ))} */}
+      <h1>Post Details</h1>
     </>
   )
 }
