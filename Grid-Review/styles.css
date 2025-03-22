@@ -4,3 +4,27 @@
   font-family: 'Poppins' ,sans-serif;
   font-weight: 300;
 }
+
+.item {
+  font-size: 30px;
+}
+
+.item-1 {
+  background: #008b8b;
+}
+.item-2 {
+  background: #111;
+  color: #fffcfa;
+}
+.item-3 {
+  background: #87ceeb;
+}
+.item-4 {
+  background: #ff4500;
+}
+.item-5 {
+  background: #777;
+}
+.item-6 {
+  background: #ffd700;
+}
