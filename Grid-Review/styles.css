@@ -13,8 +13,7 @@
   background: #008b8b;
 }
 .item-2 {
-  background: #111;
-  color: #fffcfa;
+  background: #228b22;
 }
 .item-3 {
   background: #87ceeb;
@@ -31,5 +30,5 @@
 
 .container {
   display: grid;
-  grid-template-rows: 80px 70px 60px 100px 85px 120px;
+  grid-template-rows: repeat(6, 60px);
 }
