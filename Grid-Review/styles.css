@@ -5,6 +5,10 @@
   font-weight: 300;
 }
 
+body {
+  background-color: #111;
+}
+
 .item {
   font-size: 30px;
 }
@@ -24,7 +28,7 @@
   background: #ff4500;
 }
 .item-5 {
-  background: #777;
+  background: #8b0000
 }
 .item-6 {
   background: #ffd700;
@@ -35,7 +39,7 @@
   grid-template-rows: 1fr 2fr;
   grid-template-columns: 3fr 1fr 2fr;
   grid-gap: 20px;
-  background-color: #ff0000;
+  background-color: #333;
   width: 1000px;
   height: 600px;
 }
