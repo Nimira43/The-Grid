@@ -17,6 +17,8 @@
 }
 .item-3 {
   background: #87ceeb;
+  grid-row-start: 2;
+  grid-column-start: 3;
 }
 .item-4 {
   background: #ff4500;
