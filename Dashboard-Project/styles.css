@@ -34,6 +34,9 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  display: grid;
+  grid-template-columns: 200px 1350px;
+  grid-template-rows: 980px;
 }
 
 .sidebar-container {
@@ -41,4 +44,7 @@ body {
   border-radius: 3px;
 }
 
-
+.main-container {
+  background-color: var(--black);
+  border-radius: 3px;
+}
