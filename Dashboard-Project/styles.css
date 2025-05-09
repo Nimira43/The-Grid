@@ -48,5 +48,8 @@ body {
   background-color: var(--black);
   border-radius: 44px;
   transform: translateX(-100px);
-  
+}
+
+i {
+  color: var(--light);
 }
